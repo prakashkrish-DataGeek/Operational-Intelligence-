@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+openpyxl>=3.1
+lasio>=0.31
+matplotlib>=3.7
+
+[app]
+streamlit>=1.30
+
+[dev]
+pytest>=7

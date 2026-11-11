@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Kasauti: a touchstone benchmark for operational AI on real Volve field data"
+message: "If you use Kasauti, please cite it and credit the Volve data owners as set out in DATA_LICENCE.md."
+type: software
+authors:
+  - family-names: Krishnamachari
+    given-names: Prakash
+version: 0.1.0
+date-released: 2026-11-10
+license: Apache-2.0

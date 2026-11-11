@@ -1,0 +1,15 @@
+Kasauti
+Copyright 2026 Prakash Krishnamachari
+
+Code: Apache License 2.0 (see LICENSE).
+Documentation, METHOD.md and the published results and figures: CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/).
+
+This repository does not contain Volve data. The benchmark reads data from the
+Volve field dataset, disclosed by Equinor ASA and the former Volve licence
+partners under the Equinor Open Data Licence. See DATA_LICENCE.md.
+Kasauti is not affiliated with, or endorsed by, Equinor or its partners.
+
+Runtime dependencies and their licences:
+  numpy (BSD-3-Clause), pandas (BSD-3-Clause), scikit-learn (BSD-3-Clause),
+  matplotlib (PSF-based), openpyxl (MIT), lasio (MIT).
